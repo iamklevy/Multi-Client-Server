@@ -1,0 +1,2 @@
+D:\MultipleClientServer\Debug\MultipleClientServer.exe
+D:\my_projects\MultipleClientServer\Debug\MultipleClientServer.exe

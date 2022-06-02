@@ -1,0 +1,6 @@
+﻿  server.cpp
+D:\my_projects\MultipleClientServer\server.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\my_projects\MultipleClientServer\server.cpp(77,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\my_projects\MultipleClientServer\server.cpp(96,24): warning C4018: '<': signed/unsigned mismatch
+D:\my_projects\MultipleClientServer\server.cpp(113,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MultipleClientServer.vcxproj -> D:\my_projects\MultipleClientServer\x64\Debug\MultipleClientServer.exe
