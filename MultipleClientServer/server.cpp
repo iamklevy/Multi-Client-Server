@@ -39,7 +39,7 @@ void main() {
 
 	sockaddr_in hint;                             //The SOCKADDR_IN structure specifies a transport address and port for the AF_INET address family.
 	hint.sin_family = AF_INET;
-	hint.sin_port = htons(54000);                //The htons function converts a u_short from host to TCP/IP network byte order (which is big-endian)
+	hint.sin_port = htons(54000);                //The htons function converts a u_short from host to TCP/IP network byte order (which is big-endian) -> port can be changed
 	hint.sin_addr.S_un.S_addr = INADDR_ANY;     // "INADDR_ANY"  is just Definition of bits in internet address integers. ->   could also use inet_pton ....
 
 
